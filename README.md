@@ -2,6 +2,9 @@
 
 _Propuesta de un blog sobre café realizado con HTML, CSS y JavaScript, utilizando metodología BEM_
 
+## Vista Previa 🚀
+_ _
+
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
