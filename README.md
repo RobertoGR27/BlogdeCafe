@@ -2,8 +2,8 @@
 
 _Propuesta de un blog sobre café realizado con HTML, CSS y JavaScript, utilizando metodología BEM_
 
-## Vista Previa 🚀
-_ _
+## Vista Previa :desktop_computer:
+_[Blog de café](https://robertogr27.github.io/BlogdeCafe/)_
 
 ## Comenzando 🚀
 
